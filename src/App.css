@@ -62,7 +62,7 @@ button {
 }
 
 button:hover {
-  background-color:#e46565;
+  background-color:#72a7ac;
   color: black;
   cursor: pointer;
 }
